@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool: myhostedagent
+pool:  myhostedagent
   
 
 variables:
